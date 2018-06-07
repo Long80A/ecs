@@ -27,7 +27,7 @@
         -   Linux系统一般不会显示密码输入过程。
         -   您可以单击界面左上角的 **发送远程命令** \> **CTRL+ALT+Fx**（x为1 ~ 10），切换不同的 **管理终端** 连接Linux实例执行不同的操作。
         -   如果出现黑屏，是因为Linux实例处于休眠状态，单击键盘上任意键即可唤醒。
-    -   如果是Windows实例，在 管理终端 界面的左上角单击 **发送远程命令** \> **CTRL+ALT+DELETE**，进入Windows实例的登录界面。输入用户名和密码即可登录。如果您忘记了实例登录密码，请 [重置实例密码](../cn.zh-CN/用户指南/实例/重置实例密码.md#)。
+    -   如果是Windows实例，在 管理终端 界面的左上角单击 **发送远程命令** \> **CTRL+ALT+DELETE**，进入Windows实例的登录界面。输入用户名（默认为 Administrator）和密码即可登录。如果您忘记了实例登录密码，请 [重置实例密码](../cn.zh-CN/用户指南/实例/重置实例密码.md#)。
 
         ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9602/5085_zh-CN.png)
 
